@@ -78,4 +78,7 @@ Identify specific bottlenecks.
 There are other things more important than perf.
 
 
+## GitHub Repo for the content
+
+<http://github.com/peterflynn/jsconf-2013>
 
