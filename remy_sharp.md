@@ -21,5 +21,8 @@ Biggies
 * mobile looking hopeful
 * Give it 12 months
 
+## Links
+
+* Slides <https://speakerdeck.com/rem/lessons-from-the-experimental-edge-of-technology>
 * <http://headshots.leftlogic.com>
 * <http://github.com/leftlogic/headshots>
