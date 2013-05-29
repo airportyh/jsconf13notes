@@ -65,8 +65,9 @@ Paradies a lot the conventions of the times, uses `===`, hasOwnProperty, etc sac
       return n < 2 ? 1: factorial(n-1)*n;
     }
 
-## Contact
+## Links
 
+* Slides: <https://speakerdeck.com/anguscroll/javascript-is-literature-is-javascript>
 * <http://byfat.xxx/if-hemingway-wrote-javascript>
 * <http://blog.anguscroll.com/if-edgar-allen-poe-wrote-javascript>
 * <http://github.com/angus-c/literaryJavascript>
