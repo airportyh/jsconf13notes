@@ -1,4 +1,4 @@
-Down the rabbit hole: Chasing bugs from the browser to the backend - Brandon - Dim
+Down the rabbit hole: Chasing bugs from the browser to the backend - Brandon Dimcheff
 ==================================================================================
 
 (missed first 7 minutes)
