@@ -1,3 +1,6 @@
+Human Sacrafice, Cats and Dogs, Mass Hysteria - Jed Schmitt
+=============================================
+
 Quote from Ghost Busters
 
 Men are From Mars, WEomna are from venius.
@@ -70,4 +73,6 @@ I built this thing called `rndr`. #! SEO? You can inject your html and put in a 
 
 <http://rndr.me/> Basically, you can redirect google robot to 3rd party service to render #! urls!
 
+## Links
 
+* @jedschmidt
