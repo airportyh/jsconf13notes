@@ -10,7 +10,7 @@ Remy Sharp (@rem)
 * collision detection
 * hard thing was getting video stream to project into the 3d scene
 
-Biggies
+## Biggies
 
 * newness of webrtc ate way more time than I anticipated
 * google engineers are there to help
